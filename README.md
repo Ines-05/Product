@@ -5,7 +5,8 @@
 L'Assistant d'Analyse de Produits est une application web interactive qui permet aux utilisateurs d'interroger en langage naturel une base de données d'avis sur des produits. L'application utilise des technologies d'intelligence artificielle pour analyser et récupérer des informations pertinentes à partir d'un large ensemble d'avis clients.
 
 
-## Fonctionnalités principales
+## Fonctionnalités principales![assistant](https://github.com/user-attachments/assets/5516da12-37ad-488c-97ad-a24ffa16ba1c)
+
 
 - **Recherche en langage naturel** : Posez des questions sur des produits comme vous le feriez à un conseiller humain
 - **Analyse de sentiment** : Les avis sont automatiquement analysés (positif, neutre, négatif) 
