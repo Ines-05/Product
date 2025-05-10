@@ -131,4 +131,4 @@ Pour toute question ou suggestion d'amélioration, veuillez ouvrir une issue sur
 
 ---
 
-Développé avec ❤️ par [Votre Nom/Organisation]
+Développé avec ❤️ par Inès TCHEKPO
