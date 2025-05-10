@@ -21,3 +21,5 @@ python-multipart
 faiss-cpu
 langchain_community
 streamlit
+sentence_transformers
+textblob
